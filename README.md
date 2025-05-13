@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yasin.torkzaban@gmail.com**
 
-<h1 align="left" fz="15px">🌐 Socials:</h1>
+<h1 align="left" fontsize="15px">🌐 Socials:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yasin-torkzaban-b36171365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasin-torkzaban-b36171365/" height="30" width="40" /></a>
 <a href="https://instagram.com/yasintorkzaban.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasintorkzaban.dev" height="30" width="40" /></a>
