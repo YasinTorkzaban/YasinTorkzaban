@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
+![Image](https://github.com/user-attachments/assets/4c194323-6432-46c3-8939-d814142bd24c)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasintorkzaban&label=Profile%20views&color=0e75b6&style=flat" alt="yasintorkzaban" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasintorkzaban" alt="yasintorkzaban" /></a> </p>
